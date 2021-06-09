@@ -1,10 +1,30 @@
-## Welcome to GitHub Pages
+# Shahbaz Khan
+I am currently a postdoc at University of Helsinki, working with [Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#). My research work deals with Graph Algorithms for Bioinformatics applications. My other research interests include Dynamic Graph Algorithms and Experimental Algorithmics.
 
-You can use the [editor on GitHub](https://github.com/shahbazk/shahbazk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Office: A241, 2nd floor, Exactum building, Kumpula Campus, University of Helsinki
+Address: Pietari Kalmin katu 5, 00560 Helsinki, Finland
+Email: shahbaz \[dot\] khan \[at\] helsinki \[dot\] fi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/khanshahbaz/). [DBLP](dblp.uni-trier.de/pers/k/Khan_0004:Shahbaz.html)
 
-### Markdown
+## Professional Experience
+
+Post Doctorate Researcher | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms)
+_(Feb 2020- Present)_     | [Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics)
+                          | [Department of Computer Science](https://www2.helsinki.fi/en/computer-science)
+                          | [University of Helsinki, Finland](https://www.helsinki.fi/en)
+                          | Advisor: [Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)
+
+Post Doctorate Researcher | [Theory and Applications of Algorithms Group](https://taa.cs.univie.ac.at/)
+_(July 2017- Oct 2018)_   | [Faculty of Computer Science](https://informatik.univie.ac.at/)
+                          | [University of Vienna, Austria](https://www.univie.ac.at/en/)
+                          | Advisor: [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/)
+                          
+Teaching Assistant        | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)
+_(July 2011-Jun 2017)_    | [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)
+
+
+## Education
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
