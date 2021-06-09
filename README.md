@@ -10,27 +10,26 @@ My other research interests include Dynamic Graph Algorithms and Experimental Al
 
 ## Professional Experience
 
-Post Doctorate Researcher  
-_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms)  
-    [Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics)  
-                           [Department of Computer Science](https://www2.helsinki.fi/en/computer-science)  
-                           [University of Helsinki, Finland](https://www.helsinki.fi/en)  
-                           Advisor: [Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#) 
-
-Post Doctorate Researcher  
-_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/)  
-    [Faculty of Computer Science](https://informatik.univie.ac.at/)  
-                           [University of Vienna, Austria](https://www.univie.ac.at/en/)  
-                           Advisor: [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/)  
-                          
-Teaching Assistant   
-_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)  
+Post Doctorate Researcher<br>_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms)<br> 
+    [Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics)<br> 
+                           [Department of Computer Science](https://www2.helsinki.fi/en/computer-science)<br>   
+                           [University of Helsinki, Finland](https://www.helsinki.fi/en)<br>
+                           Advisor: [Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)
+Post Doctorate Researcher<br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/)<br>
+    [Faculty of Computer Science](https://informatik.univie.ac.at/)<br> 
+                           [University of Vienna, Austria](https://www.univie.ac.at/en/)<br> 
+                           Advisor: [Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/)                            
+Teaching Assistant<br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)<br>
     [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)
 
 
 ## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Doctor of Philosophy in Computer Science and Engineering<br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)<br>
+    [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)<br>
+    _Thesis:_ [Dynamic Depth First Search in Undirected Graphs]()<br>
+    _Advisor:_ [Prof. Surender Baswana](https://www.cse.iitk.ac.in/users/sbaswana/)
+
 
 ```markdown
 Syntax highlighted code block
