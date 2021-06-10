@@ -24,7 +24,7 @@ _Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.
 | Post Doctorate Researcher<br><br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/)<br> [Faculty of Computer Science](https://informatik.univie.ac.at/)<br>                         [University of Vienna, Austria](https://www.univie.ac.at/en/)<br>                       Advisor: [Prof. Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) | 
 | Teaching Assistant<br><br>_(July 2011-Jun 2017)_ | [Dept. of Computer Science and Engineering](https://cse.iitk.ac.in/)<br> [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)|
 
-----------------------------------------------------------
+
 ## Education
 
 |      |     |
