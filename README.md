@@ -21,9 +21,9 @@ _Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.
 
 |      |      |
 | :--- | :--- |
-|Post Doctorate Researcher<br>_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms)<br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics)<br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science)<br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Dr. Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
-| Post Doctorate Researcher<br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/)<br> [Faculty of Computer Science](https://informatik.univie.ac.at/)<br>                         [University of Vienna, Austria](https://www.univie.ac.at/en/)<br>                       Advisor: [Prof. Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) | 
-| Teaching Assistant<br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)<br> [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)|
+|Post Doctorate Researcher<br><br>_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms)<br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics)<br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science)<br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Dr. Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
+| Post Doctorate Researcher<br><br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms](https://taa.cs.univie.ac.at/)<br> [Faculty of Computer Science](https://informatik.univie.ac.at/)<br>                         [University of Vienna, Austria](https://www.univie.ac.at/en/)<br>                       Advisor: [Prof. Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) | 
+| Teaching Assistant<br><br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/)<br> [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)|
 
 ----------------------------------------------------------
 ## Education
