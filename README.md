@@ -13,7 +13,6 @@ _Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.
 -------------------------------------
 
 ## Professional Experience
-
 |      |      |
 | :--- | :--- |
 |Post Doctorate Researcher<br><br>_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms), <br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics), <br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science), <br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Dr. Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
@@ -22,7 +21,6 @@ _Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.
 
 
 ## Education
-
 |      |     |
 | :--- | :--- |
 | **Doctor of Philosophy**<br><br>_(July 2013-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/), <br>[Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)<br>_Thesis:_ [Depth First Search Trees in Dynamic Graphs](https://shahbazk.github.io/Shahbaz_Khan_PhD_Thesis.pdf)<br>_Advisor:_ [Prof. Surender Baswana](https://www.cse.iitk.ac.in/users/sbaswana/)| 
