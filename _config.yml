@@ -4,7 +4,4 @@ title: Shahbaz Khan
 description: Homepage of Shahbaz Khan
 logo: https://shahbazk.github.io/shahbazk.jpeg
 
-defaults:
-    values:
-      layout: single
-      classes: wide
+
