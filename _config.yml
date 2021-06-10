@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: Shahbaz Khan
 description: Homepage of Shahbaz Khan
 logo: https://shahbazk.github.io/shahbazk.jpeg
+layout: single
+classes: wide
