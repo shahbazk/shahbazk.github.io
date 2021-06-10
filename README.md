@@ -1,4 +1,3 @@
-# Shahbaz Khan
 I am currently a postdoc at the Department of Computer Science in University of Helsinki, working with [Alexandru Tomescu](https://www.cs.helsinki.fi/u/tomescu/#) in the _Graph Algorithms_ team of the _Algorithmic Bioinformatics_ group.   
 
 **Office:** A241, 2nd floor, Exactum building, Kumpula Campus, University of Helsinki  
