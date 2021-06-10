@@ -2,7 +2,7 @@ I am currently a postdoc at the Department of Computer Science in University of 
 
 **Office:** A241, 2nd floor, Exactum building, Kumpula Campus, University of Helsinki  
 **Address:** Pietari Kalmin katu 5, 00560 Helsinki, Finland  
-**Email:** shahbaz \[dot\] khan \[at\] helsinki \[dot\] fi ,  shahbaz \[dot\] khan \[dot\] sbzk \[at\] gmail \[dot\] com  
+**Email:** [shahbaz.khan@helsinki.fi](mailto:shahbaz.khan@helsinki.fi) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
 ----------------------------------------
 
