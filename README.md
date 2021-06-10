@@ -4,10 +4,6 @@ I am currently a postdoc at the Department of Computer Science in University of 
 **Address:** Pietari Kalmin katu 5, 00560 Helsinki, Finland  
 **Email:** shahbaz \[dot\] khan \[at\] helsinki \[dot\] fi ,  shahbaz \[dot\] khan \[dot\] sbzk \[at\] gmail \[dot\] com  
 
-_Resume/CV:_ [LinkedIn](https://www.linkedin.com/in/khanshahbaz/)  
-_Publications:_  [DBLP](dblp.uni-trier.de/pers/k/Khan_0004:Shahbaz.html), [Google Scholar](https://scholar.google.com/citations?user=B2L-1BwAAAAJ&hl=en)  
-_Profiles:_ [Research Gate](https://www.researchgate.net/profile/Shahbaz-Khan-20), [Orcid](https://orcid.org/0000-0001-9352-0088)
-
 ----------------------------------------
 
 ## Research Area
