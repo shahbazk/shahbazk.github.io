@@ -1,7 +1,5 @@
 I am an Assitant Professor at the Department of Computer Science and Engineering at Indian Institute of Technology Roorkee.   
 
-**Office:** A241, 2nd floor, Exactum building, Kumpula Campus, University of Helsinki  
-**Address:** Pietari Kalmin katu 5, 00560 Helsinki, Finland  
 **Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
 ----------------------------------------
