@@ -1,14 +1,14 @@
-I am currently a postdoc at the Department of Computer Science in University of Helsinki, working with [Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/#) in the _Graph Algorithms_ team of the _Algorithmic Bioinformatics_ group.   
+I am an Assitant Professor at the Department of Computer Science and Engineering at Indian Institute of Technology Roorkee.   
 
 **Office:** A241, 2nd floor, Exactum building, Kumpula Campus, University of Helsinki  
 **Address:** Pietari Kalmin katu 5, 00560 Helsinki, Finland  
-**Email:** [shahbaz.khan@helsinki.fi](mailto:shahbaz.khan@helsinki.fi) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
+**Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
 ----------------------------------------
 
 ## Research Area
-_Current:_ Graph Algorithms for Bioinformatics applications.  
-_Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.  
+_General:_ Algorithms and Data structures.  
+_Specialization:_ Dynamic Graph Algorithms, Experimental Algorithmics and Graph Algorithms for Bioinformatics applications.  
 
 -------------------------------------
 
@@ -16,7 +16,8 @@ _Past:_ Dynamic Graph Algorithms and Experimental Algorithmics.
 
 |      |      |
 | :--- | :--- |
-|Post Doctorate Researcher<br><br>_(Feb 2020- Present)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms), <br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics), <br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science), <br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Assoc. Prof. Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
+|Assistant Professor<br><br>_(Dec 2021- Present)_  | [Department of Computer Science and Engineering](https://cse.iitr.ac.in/), <br>  [Indian Institute of Technology Roorkee](https://www.iitr.ac.in)|
+|Post Doctorate Researcher<br><br>_(Feb 2020- Dec 2021)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms), <br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics), <br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science), <br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Assoc. Prof. Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
 | Post Doctorate Researcher<br><br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms Group](https://taa.cs.univie.ac.at/), <br> [Faculty of Computer Science](https://informatik.univie.ac.at/), <br> [University of Vienna, Austria](https://www.univie.ac.at/en/)<br> Advisor: [Prof. Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) | 
 | Teaching Assistant<br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/), <br> [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)|
 
