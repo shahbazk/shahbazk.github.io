@@ -1,12 +1,12 @@
 I am an Assistant Professor at the Department of Computer Science and Engineering at Indian Institute of Technology Roorkee.   
 
-**Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
+**Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in),  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
 ----------------------------------------
 
 ## Research Area
 _General:_ Algorithms and Data structures.  
-_Specialization:_ Dynamic Graph Algorithms, Experimental Algorithmics and Graph Algorithms for Bioinformatics applications.  
+_Specialization:_ Dynamic Graph Algorithms, Experimental Algorithmics, and Graph Algorithms for Bioinformatics applications.  
 
 -------------------------------------
 
