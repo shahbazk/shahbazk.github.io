@@ -1,4 +1,4 @@
-I am an Assitant Professor at the Department of Computer Science and Engineering at Indian Institute of Technology Roorkee.   
+I am an Assistant Professor at the Department of Computer Science and Engineering at Indian Institute of Technology Roorkee.   
 
 **Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in) ,  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
@@ -14,7 +14,7 @@ _Specialization:_ Dynamic Graph Algorithms, Experimental Algorithmics and Graph 
 
 |      |      |
 | :--- | :--- |
-|Assistant Professor<br><br>_(Dec 2021- Present)_  | [Department of Computer Science and Engineering](https://cse.iitr.ac.in/), <br>  [Indian Institute of Technology Roorkee](https://www.iitr.ac.in)|
+|Assistant Professor<br>_(Dec 2021- Present)_  | [Department of Computer Science and Engineering](https://cse.iitr.ac.in/), <br>  [Indian Institute of Technology Roorkee](https://www.iitr.ac.in)|
 |Post Doctorate Researcher<br><br>_(Feb 2020- Dec 2021)_  | [Graph Algorithms Team](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics/teams/graph-algorithms), <br>[Algorithmic Bioinformatics](https://www2.helsinki.fi/en/researchgroups/algorithmic-bioinformatics), <br> [Department of Computer Science](https://www2.helsinki.fi/en/computer-science), <br>  [University of Helsinki, Finland](https://www.helsinki.fi/en)<br> Advisor: [Assoc. Prof. Alexandru I. Tomescu](https://www.cs.helsinki.fi/u/tomescu/#)|
 | Post Doctorate Researcher<br><br>_(July 2017- Oct 2018)_ | [Theory and Applications of Algorithms Group](https://taa.cs.univie.ac.at/), <br> [Faculty of Computer Science](https://informatik.univie.ac.at/), <br> [University of Vienna, Austria](https://www.univie.ac.at/en/)<br> Advisor: [Prof. Monika Henzinger](https://taa.cs.univie.ac.at/team/person/40337/) | 
 | Teaching Assistant<br>_(July 2011-Jun 2017)_ | [Department of Computer Science and Engineering](https://cse.iitk.ac.in/), <br> [Indian Institute of Technology Kanpur, India](https://www.iitk.ac.in/)|
