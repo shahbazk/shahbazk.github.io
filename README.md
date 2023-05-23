@@ -2,6 +2,8 @@ I am an Assistant Professor at the Department of Computer Science and Engineerin
 
 **Email:** [shahbaz.khan@cs.iitr.ac.in](mailto:shahbaz.khan@cs.iitr.ac.in),  [shahbazkhan.sbzk@gmail.com](mailto:shahbazkhan.sbzk@gmail.com)
 
+**NOTE:** Do NOT send queries about **SUMMER INTERNSHIPS**, they will **NOT** be answered. I only take summer interns through [SPARK internship program at IIT Roorkee](https://spark.iitr.ac.in/).
+
 ----------------------------------------
 
 ## Research Area
