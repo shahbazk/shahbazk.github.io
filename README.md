@@ -4,7 +4,7 @@ I am an Assistant Professor at the Department of Computer Science and Engineerin
 
 ----------------------------------------
 ## Summer Internships
-Do **NOT** send queries about **SUMMER INTERNSHIPS** they will **NOT** be answered. 
+Do **NOT** send queries about **SUMMER INTERNSHIPS** they will **NOT** be answered. <br>
 I only take summer interns through [SPARK internship program at IIT Roorkee](https://spark.iitr.ac.in/).
 
 ----------------------------------------
